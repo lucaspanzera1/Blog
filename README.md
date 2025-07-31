@@ -10,3 +10,14 @@
 
 ***
 
+## Backend
+#### Criando um projeto SpringBoot:
+* Project: Maven
+* Language: Java
+* Spring Boot: 3.5.4
+* Group: com.lucaspanzera
+* Artifact: blog-backend
+* Name: blog-backend
+* Package name: com.lucaspanzera.blog
+* Packaging: Jar
+* Java: 17
