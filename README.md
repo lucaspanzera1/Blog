@@ -1,4 +1,5 @@
-# Blog
+# Blog 🌐
+![Name](https://img.shields.io/badge/lucaspanzera-Blog-purple)  ![Building](https://img.shields.io/badge/Status-Em%20Desenvolvimento-purple) 
 #### Minha ideia é criar um Blog pessoal, apenas um usuário admin consegue criar, editar e apagar.
 #### Visitantes conseguem vizualizar os Posts
 #### Foco principal é aprender mais sobre Java, SpringBoot, Typescript que tenho zero ou quase nada de XP. & manter esse tipo de aplicação no ar.
