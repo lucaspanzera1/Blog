@@ -21,3 +21,10 @@
 * Package name: com.lucaspanzera.blog
 * Packaging: Jar
 * Java: 17
+
+#### Dependências SpringBoot
+* Spring Web
+* Spring Data JPA
+* PostgreSQL Driver
+* Spring Boot DevTools
+* Validation
